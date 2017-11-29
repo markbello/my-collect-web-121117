@@ -6,5 +6,4 @@ def my_collect(arr)
     newArr.push(arr[i])
     i += 1
   end
-  newArr 
 end
